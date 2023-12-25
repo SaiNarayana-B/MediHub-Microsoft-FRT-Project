@@ -3,16 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HealthPal Bot</title>
+    <title>HealthPal Chatbot - MediHub</title>
     <style>
         body {
             margin: 0;
-            overflow: hidden;
             display: flex;
             flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
             font-family: Arial, sans-serif;
         }
 
@@ -24,6 +20,19 @@
             font-size: 24px;
         }
 
+        nav {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
         iframe {
             border: none;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -31,6 +40,7 @@
             width: 80vw;
             max-width: 400px;
             height: 80vh;
+            align-self: center;
         }
 
         /* Your existing styles for the navigation bar */
@@ -43,8 +53,16 @@
 <body>
 
     <header>
-        Chat with MediHub Bot
+        Chat with HealthPal Bot
     </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+        <a href="Bot.html">Bot</a>
+    </nav>
 
     <!-- Your Bot iframe -->
     <iframe src="https://webchat.botframework.com/embed/MediHub-bot?s=KomBqzlOFfg.oQFCxDJAPIX4mrDstWESaCLwIAhtnFjthAF5FSmLCvY"></iframe>
