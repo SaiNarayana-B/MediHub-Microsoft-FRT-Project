@@ -4,7 +4,7 @@
 
 **Netlify Demo Link:** [https://medihub-frt.netlify.app/]
 
-**Azure Hosted Website:** [https://finalmedihub.z29.web.core.windows.net/Bot.html]
+**Azure Hosted Website:** [https://finalmedihub.z29.web.core.windows.net/]
 
 ## Short Description
 
@@ -36,7 +36,7 @@ MediHub Wellness Hub integrates Azure AI Services to enhance the capabilities of
 
 ### Project Overview
 
-![Project Overview](/main/project/azurre%20static%20web%20apps.webp)
+![Project Overview](/main/project/ai.png)
 
 
 
