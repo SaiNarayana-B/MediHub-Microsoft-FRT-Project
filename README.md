@@ -50,6 +50,14 @@ What are natural remedies for indigestion?
 
 What can I do at home to alleviate a sore throat?
 
+Where is Medihub located?
+
+What is the contact number?
+
+Who is the owner?
+
+Who created you?
+
 
 ## Screenshots/Images
 
