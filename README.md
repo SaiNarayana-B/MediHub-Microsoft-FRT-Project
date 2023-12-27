@@ -4,7 +4,7 @@
 
 **Netlify Demo Link:** [https://medihub-frt.netlify.app/]
 
-**Azure Hosted Website:** [Link to your Azure-hosted website]
+**Azure Hosted Website:** [https://medihubstorage.z29.web.core.windows.net/]
 
 ## Short Description
 
