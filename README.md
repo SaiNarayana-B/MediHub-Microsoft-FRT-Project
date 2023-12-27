@@ -39,6 +39,18 @@ MediHub Wellness Hub optimizes Azure Blob Storage for efficient deployment of pr
 
 MediHub Wellness Hub integrates Azure AI Services to enhance the capabilities of our HealthPal chatbot. Specifically, Azure AI Language is employed to create a knowledge base for the bot, enriching its understanding of medical information. This empowers HealthPal to provide accurate and context-aware responses, ensuring a personalized and informative experience for users seeking health advice, symptom insights, and home remedies. Additionally, Azure Chatbot is utilized to deploy the customized HealthPal bot, facilitating interactive and intelligent conversations that go beyond standard hospital-related queries. The integration of Azure AI Services elevates the intelligence and responsiveness of our chatbot, making it a valuable companion in users' health journeys.
 
+## Sample QnA
+What are the symptoms of the common cold?
+
+What are some home remedies for a headache?
+
+How can I relieve muscle pain or leg pain at home?
+
+What are natural remedies for indigestion?
+
+What can I do at home to alleviate a sore throat?
+
+
 ## Screenshots/Images
 
 ### Project Overview
