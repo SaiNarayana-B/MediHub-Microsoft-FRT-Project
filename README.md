@@ -38,26 +38,6 @@ MediHub Wellness Hub integrates Azure AI Services to enhance the capabilities of
 
 ![Project Overview](/path/to/project-overview-image.png)
 
-### Azure Hosting
 
-![Azure Hosting](/path/to/azure-hosting-image.png)
-
-### Azure AI Services
-
-![Azure AI Services](/path/to/azure-ai-services-image.png)
-
-## How to Run Locally
-
-[Provide instructions on how to clone, set up, and run your project locally.]
-
-## Contributing
-
-[Include guidelines for contributors, if applicable.]
-
-## License
-
-[Specify the license under which your project is distributed.]
-
----
 
 **Note:** For the latest updates and improvements, please check the [GitHub repository](Link to your GitHub repository).
