@@ -43,8 +43,11 @@ MediHub Wellness Hub integrates Azure AI Services to enhance the capabilities of
 
 ### Project Overview
 
-![Project Overview](/main/project/ai.png)
+<img width="960" alt="Screenshot 2023-12-27 193452" src="https://github.com/sai231102/MediHub-Microsoft-FRT-Project/assets/83605866/160b9666-55f6-4fba-9b27-28eb20cdd79b">
+
+<img width="960" alt="Screenshot 2023-12-27 193610" src="https://github.com/sai231102/MediHub-Microsoft-FRT-Project/assets/83605866/2f2bf576-75b0-4b82-8529-33daf6d624e0">
 
 
 
-**Note:** For the latest updates and improvements, please check the [GitHub repository](Link to your GitHub repository).
+
+**Note:** For the latest updates and improvements, please check the [GitHub repository](https://github.com/sai231102/MediHub-Microsoft-FRT-Project).
