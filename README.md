@@ -1,6 +1,6 @@
 # MediHub Wellness Hub: Your Personalized Health Companion with Integrated Chatbot Guidance
 
-**Project Name:** [MediHub]
+**Project Name:** MediHub
 
 **Netlify Demo Link:** [https://medihub-frt.netlify.app/]
 
@@ -8,7 +8,7 @@
 
 ## Short Description
 
-[Provide a concise overview of your project, highlighting its main features and objectives.]
+MediHub Wellness Hub is a cutting-edge healthcare platform designed to revolutionize the way individuals access personalized health advice. Seamlessly integrating a user-friendly hospital website with an advanced chatbot, the platform empowers users to navigate healthcare resources effortlessly. The chatbot acts as a personalized health companion, delivering tailored advice and tips based on individual queries and health profiles. With a focus on accessibility and reliability, MediHub Wellness Hub is your go-to destination for proactive health management.
 
 ## Technology Stack
 
