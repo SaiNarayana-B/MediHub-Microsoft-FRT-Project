@@ -19,6 +19,8 @@ Experience healthcare innovation with MediHub Wellness Hub, featuring HealthPal,
 
 ### 1. Azure App service
 
+![azurre static web apps](https://github.com/sai231102/MediHub-Microsoft-FRT-Project/assets/83605866/dbb8fc55-1100-4d2c-9275-303e3a146e6c)
+
 MediHub Wellness Hub is hosted on Azure App Service for seamless scalability, continuous deployment, and enhanced security features.
 
 ### 2. Azure Blob storage
@@ -32,6 +34,8 @@ MediHub Wellness Hub optimizes Azure Blob Storage for efficient deployment of pr
 ## Azure AI Services Used
 
 ### 1. Azure AI Cognitive services
+![ai](https://github.com/sai231102/MediHub-Microsoft-FRT-Project/assets/83605866/636452c4-8a34-4c1e-8f39-981704d7f79b)
+
 
 MediHub Wellness Hub integrates Azure AI Services to enhance the capabilities of our HealthPal chatbot. Specifically, Azure AI Language is employed to create a knowledge base for the bot, enriching its understanding of medical information. This empowers HealthPal to provide accurate and context-aware responses, ensuring a personalized and informative experience for users seeking health advice, symptom insights, and home remedies. Additionally, Azure Chatbot is utilized to deploy the customized HealthPal bot, facilitating interactive and intelligent conversations that go beyond standard hospital-related queries. The integration of Azure AI Services elevates the intelligence and responsiveness of our chatbot, making it a valuable companion in users' health journeys.
 
