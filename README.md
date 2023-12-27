@@ -23,6 +23,9 @@ MediHub Wellness Hub is hosted on Azure App Service for seamless scalability, co
 
 ### 2. Azure Blob storage
 
+![azure-blob-storage](https://github.com/sai231102/MediHub-Microsoft-FRT-Project/assets/83605866/e42525e0-028b-4471-9bc7-577a345caf37)
+
+
 MediHub Wellness Hub optimizes Azure Blob Storage for efficient deployment of project files. This Azure service ensures streamlined storage and retrieval of deployment assets, contributing to the seamless functioning of our interactive HealthPal chatbot and hospital website.
 
 
