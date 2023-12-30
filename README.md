@@ -21,9 +21,9 @@ Experience healthcare innovation with MediHub Wellness Hub, featuring HealthPal,
 
 ![azure-blob-storage](https://github.com/sai231102/MediHub-Microsoft-FRT-Project/assets/83605866/e42525e0-028b-4471-9bc7-577a345caf37)
 
-Purpose: Azure Blob Storage is used to store static web files, such as images, videos, and other resources.
+####Purpose: Azure Blob Storage is used to store static web files, such as images, videos, and other resources.
 
-Implementation: All static assets required for the website are stored in Azure Blob Storage, providing a scalable and reliable storage solution.
+####Implementation: All static assets required for the website are stored in Azure Blob Storage, providing a scalable and reliable storage solution.
 
 ### 2. Azure App service (For hosting site)
 
