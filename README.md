@@ -31,7 +31,7 @@ Implementation: All static assets required for the website are stored in Azure B
 
 Purpose: Azure Static Web Apps is employed to host the static web application.
 
-Implementation: The web app is deployed and hosted on Azure Static Web Apps, leveraging its simplicity and the global content delivery network (CDN) for fast and secure content distribution.
+Implementation: The web app is deployed and hosted on Azure Static Web Apps. All the web files, i.e., HTML, CSS, JS, and asset resources like images, are stored in Azure Blob Storage. The web app is served through these files, leveraging its simplicity and the global content delivery network (CDN) for fast and secure content distribution.
 
 
 ## Azure AI Services Used
@@ -41,7 +41,7 @@ Implementation: The web app is deployed and hosted on Azure Static Web Apps, lev
 
 Purpose: Azure Cognitive Services, specifically Custom question answering service, is used to create a knowledge database for the chatbot.
 
-Implementation: I've inputted the frequently asked questions (FAQs) into Azure Custom question answering service, which processes the data and generates a knowledge base.
+Implementation: I have inputted frequently asked questions (FAQs) and some custom questions related to hospitals, as well as custom healthcare symptoms and remedies for basic health issues, into Azure's Custom Question Answering service. The service processes the data and generates a knowledge base.
 
 
 
